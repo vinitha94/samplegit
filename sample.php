@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-	Welcome to GIT
+	Welcome to GIT - Tutorial
 </body>
 </html>
